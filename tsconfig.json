@@ -9,6 +9,8 @@
     "noImplicitReturns": true,
     "noFallthroughCasesInSwitch": true,
     "sourceMap": true,
+    
+    "strictNullChecks":false,
     "declaration": false,
     "downlevelIteration": true,
     "experimentalDecorators": true,
@@ -25,6 +27,6 @@
     "strictInjectionParameters": true,
     "strictInputAccessModifiers": true,
     "strictTemplates": true,
-    "enableIvy": false 
+    "enableIvy": false,
   }
 }
